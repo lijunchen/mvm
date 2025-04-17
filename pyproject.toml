@@ -1,0 +1,8 @@
+[project]
+name = "mvm"
+version = "0.1.0"
+description = "Simple MoonBit toolchain version manager"
+requires-python = ">=3"
+
+[project.scripts]
+mvm = "mvm:main"
